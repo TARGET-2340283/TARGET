@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TARGET
-email: wu.yuanh@northeastern.edu
+email: eyeh@ece.neu.edu
 domian: target-2340283.github.io
 description: "TARGET: Latency-aware Edge Computing for VR/AR in 5G and Beyond Networks"
-baseurl: # the subpath of your site, e.g. /blog
+baseurl: ""# the subpath of your site, e.g. /blog
 url: "https://target-2340283.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  target-2340283
@@ -28,8 +28,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-remote_theme: pages-themes/tactile@v0.2.0 #pages-themes/slate@v0.2.0
-
+# remote_theme: pages-themes/cayman@v0.2.0
 lsi: false
 safe: true
 incremental: false
