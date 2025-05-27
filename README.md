@@ -1,2 +1,2 @@
 # web
-webpages for the project
+webpages for the TARGET project
