@@ -24,12 +24,12 @@ github_username:  target-2340283
 
 # Build settings
 markdown: kramdown
-theme:  minimal-mistakes-jekyll #minima #minimal-mistakes-jekyll
+# theme:  minima #minima #minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
-remote_theme: mmistakes/minimal-mistakes@4.27.1
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 lsi: false
 safe: true
 incremental: false
