@@ -1,0 +1,26 @@
+# main links
+main:
+  - title: "Home"
+    url: /index/
+  - title: "Synopsis"
+    url: /synopsis/
+  - title: "Team"
+    url: /team/
+  - title: "Publications"
+    url: /publications/
+  - title: "Code"
+    url: /code/
+  - title: "Collaborators"
+    url: /collaborators/
+  - title: "Publications"
+    url: /publications/
+  - title: "Impact"
+    url: /impact/
+
+
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
