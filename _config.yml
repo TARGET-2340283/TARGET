@@ -17,7 +17,7 @@ title: TARGET
 email: eyeh@ece.neu.edu
 domian: target-2340283.github.io
 description: "TARGET: Latency-aware Edge Computing for VR/AR in 5G and Beyond Networks"
-baseurl: ""# the subpath of your site, e.g. /blog
+baseurl: "TARGET"# the subpath of your site, e.g. /blog
 url: "https://target-2340283.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  target-2340283
