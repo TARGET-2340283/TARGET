@@ -68,7 +68,7 @@ sidebar:
         Electrical and Computer Engineering Department<br>
         Institute for the Wireless Internet of Things<br>
         Northeastern University<br>
-        <a href="mailto:d.koutsonikolas@northeastern.edu">mailto:d.koutsonikolas@northeastern.edu</a><br>
+        <a href="mailto:d.koutsonikolas@northeastern.edu">d.koutsonikolas@northeastern.edu</a><br>
         <a href="https://ece.northeastern.edu/fac-ece/dkoutsonikolas/" target="_blank">Homepage</a>
       </p>
     </td>
