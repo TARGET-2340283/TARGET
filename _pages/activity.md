@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Activities"
-permalink: /activity
+permalink: /activity/
 header:
   overlay_color: "#000"
   defaultdefaultoverlay_filter: "0.4"

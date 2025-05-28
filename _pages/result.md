@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Results"
-permalink: /result
+permalink: /result/
 header:
   overlay_color: "#000"
   defaultdefaultoverlay_filter: "0.4"

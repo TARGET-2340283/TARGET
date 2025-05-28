@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Key Outcomes"
-permalink: /outcome
+permalink: /outcome/
 header:
   overlay_color: "#000"
   defaultdefaultoverlay_filter: "0.4"

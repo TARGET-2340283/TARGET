@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Objectives"
-permalink: /objectives
+permalink: /objectives/
 header:
   overlay_color: "#000"
   defaultdefaultoverlay_filter: "0.4"

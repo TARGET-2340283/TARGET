@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: "Publications"
-permalink: /publications
+permalink: /publications/
 header:
   overlay_color: "#000"
   defaultdefaultoverlay_filter: "0.4"
