@@ -41,7 +41,7 @@ sidebar:
     <td style="vertical-align: top;">
       <img src="../yeh-e.jpg" alt="Description" style="max-width:300px; width:100%; height:auto;" />
     </td>
-    <td style="vertical-align: top; padding-left: 24px;">
+    <td style="vertical-align: top; padding-left: 24px; word-break: break-all;">
       <h2 style="font-size:2em;">Edmund Yeh </h2>
       <p>
         PI<br>
@@ -60,7 +60,7 @@ sidebar:
     <td style="vertical-align: top;">
       <img src="../koutsonikolas-d.jpg" alt="Description" style="max-width:300px; width:100%; height:auto;" />
     </td>
-    <td style="vertical-align: top; padding-left: 24px;">
+   <td style="vertical-align: top; padding-left: 24px; word-break: break-all;">
       <h2 style="font-size:2em;">Dimitrios Koutsonikolas</h2>
       <p>
         Co-PI<br>
@@ -79,7 +79,7 @@ sidebar:
     <td style="vertical-align: top;">
       <img src="../vu_pic.jpg" alt="Description" style="max-width:300px; width:100%; height:auto;" />
     </td>
-    <td style="vertical-align: top; padding-left: 24px;">
+    <td style="vertical-align: top; padding-left: 24px; word-break: break-all;">
       <h2 style="font-size:2em;">Mai Vu</h2>
       <p>
         Co-PI<br>
