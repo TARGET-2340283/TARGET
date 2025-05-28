@@ -6,18 +6,18 @@ permalink: /
 header:
   overlay_color: "#000"
   defaultoverlay_filter: "0.4"
-  overlay_image: TARGET-ICON.png
+  overlay_image: banner.png
   actions:
     - label: "NSF Award Page"
       url: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2340283&HistoricalAwards=false"
 excerpt: "Latency-aware Edge Computing for VR/AR in 5G and Beyond Networks."
-sidebar:
-  - title: "Project"
-    image: TARGET-ICON.png
-    image_alt: "image"
-    text: "TARGET: Latency-aware Edge Computing for VR/AR in 5G and Beyond Networks."
-  - title: "Time"
-    text: "May 15, 2024 - April 30, 2027 (Estimated)"
+# sidebar:
+#   - title: "Project"
+#     image: TARGET-ICON.png
+#     image_alt: "image"
+#     text: "TARGET: Latency-aware Edge Computing for VR/AR in 5G and Beyond Networks."
+#   - title: "Time"
+#     text: "May 15, 2024 - April 30, 2027 (Estimated)"
 # toc: true
 # toc_label: "My Table of Contents"
 # toc_icon: "cog"

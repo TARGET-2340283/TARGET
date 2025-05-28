@@ -7,7 +7,7 @@ date: 2025-05-27T11:48:41-04:00
 header:
   overlay_color: "#000"
   defaultdefaultoverlay_filter: "0.4"
-  overlay_image: TARGET-ICON.png
+  overlay_image: banner.png
 sidebar:
   nav: "main"
 
