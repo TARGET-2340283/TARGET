@@ -4,11 +4,13 @@ title: "Activities"
 permalink: /activity
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  defaultdefaultoverlay_filter: "0.4"
   overlay_image: TARGET-ICON.png
 toc: true
 toc_label: "Activities"
 toc_icon: "cog"
+sidebar:
+  nav: "main"
 ---
 
 ## Major Activities:  

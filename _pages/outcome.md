@@ -4,11 +4,13 @@ title: "Key Outcomes"
 permalink: /outcome
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  defaultdefaultoverlay_filter: "0.4"
   overlay_image: TARGET-ICON.png
 toc: true
 toc_label: "Key outcomes"
 toc_icon: "cog"
+sidebar:
+  nav: "main"
 ---
 
 ## Key outcomes or Other achievements: 

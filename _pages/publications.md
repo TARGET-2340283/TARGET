@@ -5,8 +5,10 @@ title: "Publications"
 permalink: /publications
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  defaultdefaultoverlay_filter: "0.4"
   overlay_image: TARGET-ICON.png
+sidebar:
+  nav: "main"
 ---
 
 1. Q. Lyu and M. Vu, “Joint Beamforming and Integer User Association using a GNN with Gumbel-Softmax Reparameterizations,” IEEE Transactions on Vehicular Technology, in submission, submitted. 

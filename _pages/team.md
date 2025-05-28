@@ -6,8 +6,10 @@ permalink: /team/
 date: 2025-05-27T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  defaultdefaultoverlay_filter: "0.4"
   overlay_image: TARGET-ICON.png
+sidebar:
+  nav: "main"
 
 # feature_row:
 #   - image_path: edmund.jpg
