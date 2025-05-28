@@ -2,8 +2,14 @@
 main:
   - title: "Home"
     url: /
-  - title: "Synopsis"
-    url: /synopsis/
+  - title: "Activities"
+    url: /activity/
+  - title: "Objectives"
+    url: /objectives/
+  - title: "Results"
+    url: /result/
+  - title: "Key Outcomes"
+    url: /outcome/ 
   - title: "Team"
     url: /team/
   - title: "Publications"
@@ -12,8 +18,6 @@ main:
     url: /code/
   - title: "Collaborators"
     url: /collaborators/
-  - title: "Publications"
-    url: /publications/
   - title: "Impact"
     url: /impact/
 
