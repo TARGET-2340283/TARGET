@@ -38,12 +38,12 @@ sidebar:
 ---
 <table>
   <tr>
-    <td style="vertical-align: top;">
-      <img src="../yeh-e.jpg" alt="Description" style="max-width:300px; height:auto;" />
+    <td style="vertical-align: middle;">
+      <img src="../yeh-e.jpg" alt="Description" style="width:230px; height:300px; object-fit:cover; object-position:top;" />
     </td>
     <td style="vertical-align: top; padding-left: 24px; word-break: break-all;">
-      <h2 style="font-size:2em;">Edmund Yeh </h2>
-      <p>
+      <h2 style="font-size:2em; margin:0;">Edmund Yeh </h2>
+      <p style="margin-top:0;">
         PI<br>
         Professor and Chair<br>
         Electrical and Computer Engineering Department<br>
@@ -57,12 +57,12 @@ sidebar:
 </table>
 <table>
   <tr>
-    <td style="vertical-align: top;">
-      <img src="../koutsonikolas-d.jpg" alt="Description" style="max-width:300px; height:auto;" />
+    <td style="vertical-align: middle;">
+      <img src="../koutsonikolas3.jpg" alt="Description" style="width:230px; height:300px; object-fit:cover; object-position:top;" />
     </td>
-   <td style="vertical-align: top; padding-left: 24px; word-break: break-all;">
-      <h2 style="font-size:2em;">Dimitrios Koutsonikolas</h2>
-      <p>
+    <td style="vertical-align: top; padding-left: 24px; word-break: break-all;">
+      <h2 style="font-size:2em; margin:0;">Dimitrios Koutsonikolas </h2>
+      <p style="margin-top:0;">
         Co-PI<br>
         Associate Professor<br>
         Electrical and Computer Engineering Department<br>
@@ -76,12 +76,12 @@ sidebar:
 </table>
 <table>
   <tr>
-    <td style="vertical-align: top;">
-      <img src="../vu_pic.jpg" alt="Description" style="max-width:300px; height:auto;" />
+    <td style="vertical-align: middle;">
+      <img src="../vu_pic.jpg" alt="Description" style="width:230px; height:300px; object-fit:cover; object-position:top;" />
     </td>
-    <td style="vertical-align: top; padding-left: 24px; word-break: break-all;">
-      <h2 style="font-size:2em;">Mai Vu</h2>
-      <p>
+     <td style="vertical-align: top; padding-left: 24px; word-break: break-all;">
+      <h2 style="font-size:2em; margin:0;">Mai Vu </h2>
+      <p style="margin-top:0;">
         Co-PI<br>
         Professor<br>
         Electrical and Computer Engineering Department<br>

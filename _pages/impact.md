@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Broader Impact
+title: Broader Impacts
 permalink: /impact/
 header:
   overlay_color: "#000"
@@ -12,6 +12,14 @@ toc_icon: "cog"
 sidebar:
   nav: "main"
 ---
+
+The proposed research will lay the theoretical foundations for enabling high-quality AR/VR/MR apps, which are
+highly anticipated by the society, as it braces for the wide deployment of 5G and Beyond mobile networks. The PIs
+will discuss research findings at various industry-focused venues that are not typically open to academics and they
+will leverage the strong ties of the Institute for the Wireless Internet of Things with industry to share the results and
+ideas with industry affiliate researchers. All the source codes and datasets from the project will be made publicly available. The
+project findings will offer materials for integration in several classes taught by the PIs at Northeastern and Tufts.
+
 ## The impact on the development of the principal discipline(s)
 The project directly contributes to the technical/algorithmic development of modern wireless systems and networks, including beyond 5G and 6G systems, particularly in enhancing wireless network data rate and reducing the overall latency. The project also contributes to the research and design methodology for future wireless networks, expanding the application of various deep-learning architectures such as graph neural networks. 
 

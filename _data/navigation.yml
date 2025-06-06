@@ -2,23 +2,13 @@
 main:
   - title: "Home"
     url: /
-  - title: "Activities"
-    url: /activity/
-  - title: "Objectives"
-    url: /objectives/
-  - title: "Results"
-    url: /result/
-  - title: "Key Outcomes"
-    url: /outcome/ 
   - title: "Team"
     url: /team/
   - title: "Publications"
     url: /publications/
-  - title: "Code"
+  - title: "Code/Datasets"
     url: /code/
-  - title: "Collaborators"
-    url: /collaborators/
-  - title: "Impact"
+  - title: "Broader Impacts"
     url: /impact/
 
 
