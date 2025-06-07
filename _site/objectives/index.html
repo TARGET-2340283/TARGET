@@ -10,7 +10,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Code/Datasets - TARGET</title>
+<!-- begin _includes/seo.html --><title>Objectives - TARGET</title>
 <meta name="description" content="TARGET: Latency-aware Edge Computing for VR/AR in 5G and Beyond Networks">
 
 
@@ -18,8 +18,8 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="TARGET">
-<meta property="og:title" content="Code/Datasets">
-<meta property="og:url" content="http://localhost:4000/code/">
+<meta property="og:title" content="Objectives">
+<meta property="og:url" content="http://localhost:4000/objectives/">
 
 
   <meta property="og:description" content="TARGET: Latency-aware Edge Computing for VR/AR in 5G and Beyond Networks">
@@ -37,7 +37,7 @@
 
 
 
-<link rel="canonical" href="http://localhost:4000/code/">
+<link rel="canonical" href="http://localhost:4000/objectives/">
 
 
 
@@ -77,7 +77,7 @@
 
   </head>
 
-  <body class="layout--single wide" dir="ltr">
+  <body class="layout--single" dir="ltr">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -163,7 +163,7 @@
     <div class="wrapper">
       <h1 id="page-title" class="page__title" itemprop="headline">
         
-          Code/Datasets
+          Objectives
 
         
       </h1>
@@ -262,7 +262,7 @@
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Code/Datasets">
+    <meta itemprop="headline" content="Objectives">
     
     
     
@@ -272,9 +272,24 @@
 
       <section class="page__content" itemprop="text">
         
-        <ol>
-  <li>5G mmWave beam management <a href="https://github.com/NUWiNS/Beam-Management-in-Operational-5G-mmWave">dataset</a> from CoNEXT 2025 <a href="https://ece.northeastern.edu/fac-ece/dkoutsonikolas/publications/conext25.pdf">paper</a> “Beam Management in Operational 5G mmWave Networks”.</li>
-</ol>
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-cog"></i> Objectives</h4></header>
+              <ul class="toc__menu"><li><a href="#objectives">Objectives</a><ul><li><a href="#joint-bs-association-and-beamforming-from-both-bss-and-ues">Joint BS Association and Beamforming from Both BSs and UEs.</a></li><li><a href="#intelligent-caching-to-reduce-e2e-latency">Intelligent Caching to Reduce E2E Latency.</a></li><li><a href="#distributed-hierarchical-storage-and-computing-infrastructure">Distributed, Hierarchical Storage and Computing Infrastructure.</a></li></ul></li></ul>
+            </nav>
+          </aside>
+        
+        <h2 id="objectives">Objectives</h2>
+<p>This project aims to develop key technologies at the PHY and network layers in an end-to-end latency framework for enabling seamless, high-quality edge-assisted AR/VR over 5G and Beyond (B5G) networks. To address shortcomings of the present 5G mmWave network and edge infrastructure, we envision an enhanced infrastructure for B5G networks featuring:</p>
+
+<h3 id="joint-bs-association-and-beamforming-from-both-bss-and-ues">Joint BS Association and Beamforming from Both BSs and UEs.</h3>
+<p>To minimize coverage holes and increase the probability that a mobile device will be in LoS of at least one BS, we envision a dense deployment of mmWave BSs. However, a dense BS deployment complicates the user association and handover problem, as a user equipment (UE) device will typically be within the transmission range of multiple BSs at a given moment. Additionally, the interference problem, due to imperfect phased arrays featuring strong sidelobes from BSs or broad mainlobes from UEs, is exacerbated in dense deployments. Joint consideration of BS association/handover and beamforming will be crucial in such environments to enable the high data rates required by AR/VR apps. In this project, we consider the joint optimization of BS association and BS/UE beamforming for both uplink and downlink, and design novel distributed algorithms to overcome the typically large overhead and long delay of centralized schemes.</p>
+
+<h3 id="intelligent-caching-to-reduce-e2e-latency">Intelligent Caching to Reduce E2E Latency.</h3>
+<p>Since computationally-intensive tasks can take in the order of 10 ms even on high-end CPUs/GPUs, caching plays a key role in reducing the end-to-end (E2E) latency. For VR applications, recent work has proposed pre-rendering and storing all possible views at all positions to avoid the cost of online rendering. Similarly, for AR apps, recent work has proposed caching computational results (e.g., the outcome of DNN inference) for popular scenes, which can then be reused for new users joining the same scene. However, in practice, caching all possible views for multiple VR apps or DNN inference results for multiple AR apps can result in prohibitively high storage requirements. Hence, in this project, we plan to design novel, intelligent, and efficient caching algorithms to control storage requirements while minimizing the E2E latency.</p>
+
+<h3 id="distributed-hierarchical-storage-and-computing-infrastructure">Distributed, Hierarchical Storage and Computing Infrastructure.</h3>
+<p>To reduce the long round-trip time (RTTs) from/to today’s edge servers, which are attached to the mobile packet core network, we envision adding computational and storage units to each BS and each mobile packet core router. This will result in a distributed hierarchical computing/storage infrastructure inside the cellular B5G network that will trade off storage capacity, computing latency, and communication latency. We envision edge servers attached to the packet core network to have higher computing and storage capacity, at the cost of longer RTTs (in the order of 10-20 ms), and computing/storage units attached to the BSs and packet core routers to have lower computing and storage capacity, but also much shorter RTTs (in the order of a few ms). Such a hierarchical computing/storage infrastructure necessitates a joint design of the request routing, caching, and computational placement as considered in this project.</p>
 
         
       </section>

@@ -1,12 +1,13 @@
 ---
 layout: single
+classes: wide
 title: Broader Impacts
 permalink: /impact/
 header:
   overlay_color: "#000"
   defaultdefaultoverlay_filter: "0.4"
   overlay_image: banner.png
-toc: true
+toc: false
 toc_label: "Impacts"
 toc_icon: "cog"
 sidebar:

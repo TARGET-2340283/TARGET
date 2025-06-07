@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Team"
     url: /team/
+  - title: "Objectives"
+    url: /objectives/
   - title: "Publications"
     url: /publications/
   - title: "Code/Datasets"
