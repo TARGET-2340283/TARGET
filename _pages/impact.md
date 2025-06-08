@@ -6,7 +6,7 @@ permalink: /impact/
 header:
   overlay_color: "#000"
   defaultdefaultoverlay_filter: "0.4"
-  overlay_image: banner.png
+  overlay_image: images/banner.png
 toc: false
 toc_label: "Impacts"
 toc_icon: "cog"

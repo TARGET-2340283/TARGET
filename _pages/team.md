@@ -7,7 +7,7 @@ date: 2025-05-27T11:48:41-04:00
 header:
   overlay_color: "#000"
   defaultdefaultoverlay_filter: "0.4"
-  overlay_image: banner.png
+  overlay_image: images/banner.png
 sidebar:
   nav: "main"
 
@@ -43,7 +43,7 @@ sidebar:
 <table>
   <tr>
     <td style="vertical-align: middle;">
-      <img src="../yeh-e.jpg" alt="Description" style="width:230px; height:300px; object-fit:cover; object-position:top;" />
+      <img src="../images/yeh-e.jpg" alt="Description" style="width:230px; height:300px; object-fit:cover; object-position:top;" />
     </td>
     <td style="vertical-align: top; padding-left: 24px; word-break: break-all;">
       <h2 style="font-size:1.8em; margin:0;">Edmund Yeh </h2>
@@ -62,7 +62,7 @@ sidebar:
 <table>
   <tr>
     <td style="vertical-align: middle;">
-      <img src="../koutsonikolas3.jpg" alt="Description" style="width:230px; height:300px; object-fit:cover; object-position:top;" />
+      <img src="../images/koutsonikolas3.jpg" alt="Description" style="width:230px; height:300px; object-fit:cover; object-position:top;" />
     </td>
     <td style="vertical-align: top; padding-left: 24px; word-break: break-all;">
       <h2 style="font-size:1.8em; margin:0;">Dimitrios Koutsonikolas </h2>
@@ -81,7 +81,7 @@ sidebar:
 <table>
   <tr>
     <td style="vertical-align: middle;">
-      <img src="../vu_pic.jpg" alt="Description" style="width:230px; height:300px; object-fit:cover; object-position:top;" />
+      <img src="../images/vu_pic.jpg" alt="Description" style="width:230px; height:300px; object-fit:cover; object-position:top;" />
     </td>
      <td style="vertical-align: top; padding-left: 24px; word-break: break-all;">
       <h2 style="font-size:1.8em; margin:0;">Mai Vu </h2>
@@ -113,7 +113,7 @@ sidebar:
 <table>
   <tr>
     <td style="vertical-align: middle;">
-      <img src="../yh.jpg" alt="Description" style="width:230px; height:300px; object-fit:cover; object-position:top;" />
+      <img src="../images/yh.jpg" alt="Description" style="width:230px; height:300px; object-fit:cover; object-position:top;" />
     </td>
     <td style="vertical-align: top; padding-left: 24px; word-break: break-all;">
       <h2 style="font-size:1.8em; margin:0;">Yuanhao Wu </h2>
@@ -130,7 +130,7 @@ sidebar:
 <table>
   <tr>
     <td style="vertical-align: middle;">
-      <img src="../phuc.jpg" alt="Description" style="width:230px; height:300px; object-fit:cover; object-position:top;" />
+      <img src="../images/phuc.jpg" alt="Description" style="width:230px; height:300px; object-fit:cover; object-position:top;" />
     </td>
     <td style="vertical-align: top; padding-left: 24px; word-break: break-all;">
       <h2 style="font-size:1.8em; margin:0;">Phuc Dinh </h2>
@@ -147,7 +147,7 @@ sidebar:
 <table>
   <tr>
     <td style="vertical-align: middle;">
-      <img src="../Lyu.jpg" alt="Description" style="width:230px; height:300px; object-fit:cover; object-position:top;" />
+      <img src="../images/Lyu.jpg" alt="Description" style="width:230px; height:300px; object-fit:cover; object-position:top;" />
     </td>
      <td style="vertical-align: top; padding-left: 24px; word-break: break-all;">
       <h2 style="font-size:1.8em; margin:0;">Qing Lyu</h2>
