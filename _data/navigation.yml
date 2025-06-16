@@ -1,9 +1,13 @@
 # main links
 main:
-  - title: "Home"
+  - title: "Synopsis"
     url: /
-  - title: "Team"
+  - title: "Personnel"
     url: /team/
+  - title: "Collaborators"
+    url: /collaborators/
+  - title: "Educational Activities"
+    url: /education/
   - title: "Objectives"
     url: /objectives/
   - title: "Publications"

@@ -1,5 +1,5 @@
 ---
-title: "Team"
+title: "Personnel"
 layout: single
 classes: wide
 permalink: /team/
