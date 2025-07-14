@@ -16,7 +16,8 @@ main:
     url: /code/
   - title: "Broader Impacts"
     url: /impact/
-
+  - title: "Outreach"
+    url: /outreach/
 
   # - title: "Sample Posts"
   #   url: /year-archive/
